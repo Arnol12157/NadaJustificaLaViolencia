@@ -1,0 +1,1919 @@
+fileFormatVersion: 2
+guid: 7098cc90e79f9cd42b82a2acb1c10818
+timeCreated: 1456975122
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ArmL
+    100002: ArmL_2
+    100004: ArmL_Layer2
+    100006: Armor_Mesh
+    100008: ArmR
+    100010: ArmR_2
+    100012: ArmR_Layer2
+    100014: Attachments__Head_
+    100016: Attachments__Left_Hand_
+    100018: Attachments__Right_Hand_
+    100020: Axes
+    100022: Axes_2
+    100024: Back
+    100026: Body
+    100028: Body_2
+    100030: Body_Layer2
+    100032: Body_Mesh
+    100034: Boole
+    100036: Bottom
+    100038: Bottom_Control
+    100040: Bottom_Null
+    100042: Bow
+    100044: bow_1
+    100046: bow_1_2
+    100048: Bow_2
+    100050: bow_2
+    100052: bow_2_2
+    100054: bow_3
+    100056: bow_3_2
+    100058: bow_4
+    100060: bow_4_2
+    100062: Cape
+    100064: Cape_2
+    100066: Chest_Piece
+    100068: Controls
+    100070: Derecha
+    100072: Derecha_2
+    100074: Derecha_3
+    100076: Derecha_4
+    100078: Derecha_5
+    100080: Diamond_Axe
+    100082: Diamond_Axe_2
+    100084: Diamond_Hoe
+    100086: Diamond_Hoe_2
+    100088: Diamond_Pickaxe
+    100090: Diamond_Pickaxe_2
+    100092: Diamond_Shovel
+    100094: Diamond_Shovel_2
+    100096: Diamond_Sword
+    100098: Diamond_Sword_2
+    100100: Expression_Control
+    100102: Eye_Boole
+    100104: Eyebrows
+    100106: Eyes
+    100108: Finger
+    100110: Finger_10
+    100112: Finger_2
+    100114: Finger_3
+    100116: Finger_4
+    100118: Finger_5
+    100120: Finger_6
+    100122: Finger_7
+    100124: Finger_8
+    100126: Finger_9
+    100128: Gold_Axe
+    100130: Gold_Axe_2
+    100132: Gold_Hoe
+    100134: Gold_Hoe_2
+    100136: Gold_Pickaxe
+    100138: Gold_Pickaxe_2
+    100140: Gold_Shovel
+    100142: Gold_Shovel_2
+    100144: Gold_Sword
+    100146: Gold_Sword_2
+    100148: Hat_Layer
+    100150: Hat_Layer_EXTRUDE
+    100152: Head
+    100154: Head_2
+    100156: Head_3
+    100158: Head___Booles
+    100160: Head__End_Joint_
+    100162: Head_EXTRUDE
+    100164: Helmet
+    100166: Hoes
+    100168: Hoes_2
+    100170: //RootNode
+    100172: Iron_Axe
+    100174: Iron_Axe_2
+    100176: Iron_Hoe
+    100178: Iron_Hoe_2
+    100180: Iron_Pickaxe
+    100182: Iron_Pickaxe_2
+    100184: Iron_Shovel
+    100186: Iron_Shovel_2
+    100188: Iron_Sword
+    100190: Iron_Sword_2
+    100192: Izquiera
+    100194: Izquiera_2
+    100196: Izquiera_3
+    100198: Izquiera_4
+    100200: Izquiera_5
+    100202: Joint
+    100204: Joint_1
+    100206: Joint_10
+    100208: Joint_1_10
+    100210: Joint_1_2
+    100212: Joint_1_3
+    100214: Joint_1_4
+    100216: Joint_1_5
+    100218: Joint_1_6
+    100220: Joint_1_7
+    100222: Joint_1_8
+    100224: Joint_1_9
+    100226: Joint_2
+    100228: Joint_2_10
+    100230: Joint_2_11
+    100232: Joint_2_2
+    100234: Joint_2_3
+    100236: Joint_2_4
+    100238: Joint_2_5
+    100240: Joint_2_6
+    100242: Joint_2_7
+    100244: Joint_2_8
+    100246: Joint_2_9
+    100248: Joint_3
+    100250: Joint_3_10
+    100252: Joint_3_11
+    100254: Joint_3_2
+    100256: Joint_3_3
+    100258: Joint_3_4
+    100260: Joint_3_5
+    100262: Joint_3_6
+    100264: Joint_3_7
+    100266: Joint_3_8
+    100268: Joint_3_9
+    100270: Joint_4
+    100272: Joint_5
+    100274: Joint_6
+    100276: Joint_7
+    100278: Joint_8
+    100280: Joint_9
+    100282: Joints
+    100284: Joints_10
+    100286: Joints_2
+    100288: Joints_3
+    100290: Joints_4
+    100292: Joints_5
+    100294: Joints_6
+    100296: Joints_7
+    100298: Joints_8
+    100300: Joints_9
+    100302: Joints___Arm_Controls
+    100304: L_Bottom
+    100306: L_Bottom_2
+    100308: L_Top
+    100310: L_Top_2
+    100312: LBottom
+    100314: Left
+    100316: left
+    100318: left_2
+    100320: Left_Arm
+    100322: Left_Arm_Piece
+    100324: Left_Arm_Piece_2
+    100326: Left_Bend_Control
+    100328: Left_Boot
+    100330: Left_Bottom_Bend_Control
+    100332: Left_Control
+    100334: Left_Elbow
+    100336: Left_Elbow__FK_Control_
+    100338: Left_Expression
+    100340: Left_Eye
+    100342: Left_Eye_Boole
+    100344: Left_Eye_Disable
+    100346: Left_Eyebrow__Mesh_
+    100348: Left_Eyebrow__Mesh__2
+    100350: Left_Eyebrow_Control
+    100352: Left_Eyebrow_Parent
+    100354: Left_Eyelid_Control_B
+    100356: Left_Eyelid_Control_T
+    100358: Left_Fancy
+    100360: Left_Fancy_Goal
+    100362: Left_Fingers
+    100364: Left_Foot
+    100366: Left_Foot_Goal
+    100368: Left_Foot_Pole
+    100370: Left_Foot_Pole_2
+    100372: Left_Hand
+    100374: Left_Hand_Goal
+    100376: Left_Hand_Pole
+    100378: Left_Knee
+    100380: Left_Leg
+    100382: Left_Leg_Piece
+    100384: Left_Null
+    100386: Left_Pupil
+    100388: Left_Pupil_Control
+    100390: Left_Shoulder
+    100392: Left_Shoulder_2
+    100394: Left_Top_Bend_Control
+    100396: Left_Wrist
+    100398: Leg_Piece
+    100400: LegL
+    100402: LegL_2
+    100404: LegL_Layer2
+    100406: LegR
+    100408: LegR_2
+    100410: LegR_Layer2
+    100412: Lip_Sync_Control
+    100414: Lower_Left_Control
+    100416: Lower_Left_Null
+    100418: Lower_Right_Control
+    100420: Lower_Right_Null
+    100422: LowerLeft
+    100424: LowerRight
+    100426: LTop
+    100428: M_Bottom
+    100430: M_Bottom_2
+    100432: M_Top
+    100434: M_Top_2
+    100436: mid
+    100438: mid_2
+    100440: Middle
+    100442: Middle_2
+    100444: Mouth
+    100446: Mouth_2
+    100448: Mouth_3
+    100450: Mouth___Eye_Booles
+    100452: Mouth___Eye_Booles_2
+    100454: Mouth_Boole
+    100456: Mouth_Boole_2
+    100458: Mouth_Boole_3
+    100460: Mouth_Boole_4
+    100462: Mouth_Disable
+    100464: Mouth_Expression_Plate
+    100466: Mouth_Plate
+    100468: Neck
+    100470: Neck_2
+    100472: Pickaxes
+    100474: Pickaxes_2
+    100476: Pinky
+    100478: Pinky_2
+    100480: Pointer
+    100482: Pointer_2
+    100484: Pupil_Control
+    100486: R_Bottom
+    100488: R_Bottom_2
+    100490: R_Top
+    100492: R_Top_2
+    100494: RBottom
+    100496: RIG_CREATED_BY_XIFROST21__2014_
+    100498: Right
+    100500: right
+    100502: right_2
+    100504: Right_Arm
+    100506: Right_Arm_Piece
+    100508: Right_Arm_Piece_2
+    100510: Right_Bend_Control
+    100512: Right_Boot
+    100514: Right_Bottom_Bend_Control
+    100516: Right_Control
+    100518: Right_Elbow
+    100520: Right_Elbow__FK_Control_
+    100522: Right_Expression
+    100524: Right_Eye
+    100526: Right_Eye_Boole
+    100528: Right_Eye_Disable
+    100530: Right_Eyebrow__Mesh_
+    100532: Right_Eyebrow__Mesh__2
+    100534: Right_Eyebrow_Control
+    100536: Right_Eyebrow_Parent
+    100538: Right_Eyelid_Control_B
+    100540: Right_Eyelid_Control_T
+    100542: Right_Fancy
+    100544: Right_Fancy_Goal
+    100546: Right_Fingers
+    100548: Right_Foot
+    100550: Right_Foot_Goal
+    100552: Right_Foot_Pole
+    100554: Right_Foot_Pole_2
+    100556: Right_Hand
+    100558: Right_Hand_Goal
+    100560: Right_Hand_Pole
+    100562: Right_Knee
+    100564: Right_Leg
+    100566: Right_Leg_Piece
+    100568: Right_Null
+    100570: Right_Pupil
+    100572: Right_Pupil_Control
+    100574: Right_Shoulder
+    100576: Right_Shoulder_2
+    100578: Right_Top_Bend_Control
+    100580: Right_Wrist
+    100582: Ring
+    100584: Ring_2
+    100586: RTop
+    100588: Shoulder_Rotator
+    100590: Shoulders
+    100592: Shovels
+    100594: Shovels_2
+    100596: Spine1
+    100598: Spine10
+    100600: Spine2
+    100602: Spine3
+    100604: Spine4
+    100606: Spine5
+    100608: Spine7
+    100610: Spine8
+    100612: Spine9
+    100614: SpineMid
+    100616: Stone_Axe
+    100618: Stone_Axe_2
+    100620: Stone_Hoe
+    100622: Stone_Hoe_2
+    100624: Stone_Pickaxe
+    100626: Stone_Pickaxe_2
+    100628: Stone_Shovel
+    100630: Stone_Shovel_2
+    100632: Stone_Sword
+    100634: Stone_Sword_2
+    100636: Swords
+    100638: Swords_2
+    100640: Teeth_Bottom
+    100642: Teeth_Bottom_Boole
+    100644: Teeth_Bottom_Control
+    100646: Teeth_Bottom_Null
+    100648: Teeth_Bottom_Null_2
+    100650: Teeth_Top
+    100652: Teeth_Top_Control
+    100654: Teeth_Top_Null
+    100656: Thumb
+    100658: Thumb_2
+    100660: Tools___Left_Hand
+    100662: Tools___Right_Hand
+    100664: Top
+    100666: Top_Control
+    100668: Top_Null
+    100670: Upper_Left_Control
+    100672: Upper_Left_Null
+    100674: Upper_Right_Control
+    100676: Upper_Right_Null
+    100678: UpperLeft
+    100680: UpperRight
+    100682: Waist
+    100684: Waist_2
+    100686: Wood_Axe
+    100688: Wood_Axe_2
+    100690: Wood_Hoe
+    100692: Wood_Hoe_2
+    100694: Wood_Pickaxe
+    100696: Wood_Pickaxe_2
+    100698: Wood_Shovel
+    100700: Wood_Shovel_2
+    100702: Wood_Sword
+    100704: Wood_Sword_2
+    400000: ArmL
+    400002: ArmL_2
+    400004: ArmL_Layer2
+    400006: Armor_Mesh
+    400008: ArmR
+    400010: ArmR_2
+    400012: ArmR_Layer2
+    400014: Attachments__Head_
+    400016: Attachments__Left_Hand_
+    400018: Attachments__Right_Hand_
+    400020: Axes
+    400022: Axes_2
+    400024: Back
+    400026: Body
+    400028: Body_2
+    400030: Body_Layer2
+    400032: Body_Mesh
+    400034: Boole
+    400036: Bottom
+    400038: Bottom_Control
+    400040: Bottom_Null
+    400042: Bow
+    400044: bow_1
+    400046: bow_1_2
+    400048: Bow_2
+    400050: bow_2
+    400052: bow_2_2
+    400054: bow_3
+    400056: bow_3_2
+    400058: bow_4
+    400060: bow_4_2
+    400062: Cape
+    400064: Cape_2
+    400066: Chest_Piece
+    400068: Controls
+    400070: Derecha
+    400072: Derecha_2
+    400074: Derecha_3
+    400076: Derecha_4
+    400078: Derecha_5
+    400080: Diamond_Axe
+    400082: Diamond_Axe_2
+    400084: Diamond_Hoe
+    400086: Diamond_Hoe_2
+    400088: Diamond_Pickaxe
+    400090: Diamond_Pickaxe_2
+    400092: Diamond_Shovel
+    400094: Diamond_Shovel_2
+    400096: Diamond_Sword
+    400098: Diamond_Sword_2
+    400100: Expression_Control
+    400102: Eye_Boole
+    400104: Eyebrows
+    400106: Eyes
+    400108: Finger
+    400110: Finger_10
+    400112: Finger_2
+    400114: Finger_3
+    400116: Finger_4
+    400118: Finger_5
+    400120: Finger_6
+    400122: Finger_7
+    400124: Finger_8
+    400126: Finger_9
+    400128: Gold_Axe
+    400130: Gold_Axe_2
+    400132: Gold_Hoe
+    400134: Gold_Hoe_2
+    400136: Gold_Pickaxe
+    400138: Gold_Pickaxe_2
+    400140: Gold_Shovel
+    400142: Gold_Shovel_2
+    400144: Gold_Sword
+    400146: Gold_Sword_2
+    400148: Hat_Layer
+    400150: Hat_Layer_EXTRUDE
+    400152: Head
+    400154: Head_2
+    400156: Head_3
+    400158: Head___Booles
+    400160: Head__End_Joint_
+    400162: Head_EXTRUDE
+    400164: Helmet
+    400166: Hoes
+    400168: Hoes_2
+    400170: //RootNode
+    400172: Iron_Axe
+    400174: Iron_Axe_2
+    400176: Iron_Hoe
+    400178: Iron_Hoe_2
+    400180: Iron_Pickaxe
+    400182: Iron_Pickaxe_2
+    400184: Iron_Shovel
+    400186: Iron_Shovel_2
+    400188: Iron_Sword
+    400190: Iron_Sword_2
+    400192: Izquiera
+    400194: Izquiera_2
+    400196: Izquiera_3
+    400198: Izquiera_4
+    400200: Izquiera_5
+    400202: Joint
+    400204: Joint_1
+    400206: Joint_10
+    400208: Joint_1_10
+    400210: Joint_1_2
+    400212: Joint_1_3
+    400214: Joint_1_4
+    400216: Joint_1_5
+    400218: Joint_1_6
+    400220: Joint_1_7
+    400222: Joint_1_8
+    400224: Joint_1_9
+    400226: Joint_2
+    400228: Joint_2_10
+    400230: Joint_2_11
+    400232: Joint_2_2
+    400234: Joint_2_3
+    400236: Joint_2_4
+    400238: Joint_2_5
+    400240: Joint_2_6
+    400242: Joint_2_7
+    400244: Joint_2_8
+    400246: Joint_2_9
+    400248: Joint_3
+    400250: Joint_3_10
+    400252: Joint_3_11
+    400254: Joint_3_2
+    400256: Joint_3_3
+    400258: Joint_3_4
+    400260: Joint_3_5
+    400262: Joint_3_6
+    400264: Joint_3_7
+    400266: Joint_3_8
+    400268: Joint_3_9
+    400270: Joint_4
+    400272: Joint_5
+    400274: Joint_6
+    400276: Joint_7
+    400278: Joint_8
+    400280: Joint_9
+    400282: Joints
+    400284: Joints_10
+    400286: Joints_2
+    400288: Joints_3
+    400290: Joints_4
+    400292: Joints_5
+    400294: Joints_6
+    400296: Joints_7
+    400298: Joints_8
+    400300: Joints_9
+    400302: Joints___Arm_Controls
+    400304: L_Bottom
+    400306: L_Bottom_2
+    400308: L_Top
+    400310: L_Top_2
+    400312: LBottom
+    400314: Left
+    400316: left
+    400318: left_2
+    400320: Left_Arm
+    400322: Left_Arm_Piece
+    400324: Left_Arm_Piece_2
+    400326: Left_Bend_Control
+    400328: Left_Boot
+    400330: Left_Bottom_Bend_Control
+    400332: Left_Control
+    400334: Left_Elbow
+    400336: Left_Elbow__FK_Control_
+    400338: Left_Expression
+    400340: Left_Eye
+    400342: Left_Eye_Boole
+    400344: Left_Eye_Disable
+    400346: Left_Eyebrow__Mesh_
+    400348: Left_Eyebrow__Mesh__2
+    400350: Left_Eyebrow_Control
+    400352: Left_Eyebrow_Parent
+    400354: Left_Eyelid_Control_B
+    400356: Left_Eyelid_Control_T
+    400358: Left_Fancy
+    400360: Left_Fancy_Goal
+    400362: Left_Fingers
+    400364: Left_Foot
+    400366: Left_Foot_Goal
+    400368: Left_Foot_Pole
+    400370: Left_Foot_Pole_2
+    400372: Left_Hand
+    400374: Left_Hand_Goal
+    400376: Left_Hand_Pole
+    400378: Left_Knee
+    400380: Left_Leg
+    400382: Left_Leg_Piece
+    400384: Left_Null
+    400386: Left_Pupil
+    400388: Left_Pupil_Control
+    400390: Left_Shoulder
+    400392: Left_Shoulder_2
+    400394: Left_Top_Bend_Control
+    400396: Left_Wrist
+    400398: Leg_Piece
+    400400: LegL
+    400402: LegL_2
+    400404: LegL_Layer2
+    400406: LegR
+    400408: LegR_2
+    400410: LegR_Layer2
+    400412: Lip_Sync_Control
+    400414: Lower_Left_Control
+    400416: Lower_Left_Null
+    400418: Lower_Right_Control
+    400420: Lower_Right_Null
+    400422: LowerLeft
+    400424: LowerRight
+    400426: LTop
+    400428: M_Bottom
+    400430: M_Bottom_2
+    400432: M_Top
+    400434: M_Top_2
+    400436: mid
+    400438: mid_2
+    400440: Middle
+    400442: Middle_2
+    400444: Mouth
+    400446: Mouth_2
+    400448: Mouth_3
+    400450: Mouth___Eye_Booles
+    400452: Mouth___Eye_Booles_2
+    400454: Mouth_Boole
+    400456: Mouth_Boole_2
+    400458: Mouth_Boole_3
+    400460: Mouth_Boole_4
+    400462: Mouth_Disable
+    400464: Mouth_Expression_Plate
+    400466: Mouth_Plate
+    400468: Neck
+    400470: Neck_2
+    400472: Pickaxes
+    400474: Pickaxes_2
+    400476: Pinky
+    400478: Pinky_2
+    400480: Pointer
+    400482: Pointer_2
+    400484: Pupil_Control
+    400486: R_Bottom
+    400488: R_Bottom_2
+    400490: R_Top
+    400492: R_Top_2
+    400494: RBottom
+    400496: RIG_CREATED_BY_XIFROST21__2014_
+    400498: Right
+    400500: right
+    400502: right_2
+    400504: Right_Arm
+    400506: Right_Arm_Piece
+    400508: Right_Arm_Piece_2
+    400510: Right_Bend_Control
+    400512: Right_Boot
+    400514: Right_Bottom_Bend_Control
+    400516: Right_Control
+    400518: Right_Elbow
+    400520: Right_Elbow__FK_Control_
+    400522: Right_Expression
+    400524: Right_Eye
+    400526: Right_Eye_Boole
+    400528: Right_Eye_Disable
+    400530: Right_Eyebrow__Mesh_
+    400532: Right_Eyebrow__Mesh__2
+    400534: Right_Eyebrow_Control
+    400536: Right_Eyebrow_Parent
+    400538: Right_Eyelid_Control_B
+    400540: Right_Eyelid_Control_T
+    400542: Right_Fancy
+    400544: Right_Fancy_Goal
+    400546: Right_Fingers
+    400548: Right_Foot
+    400550: Right_Foot_Goal
+    400552: Right_Foot_Pole
+    400554: Right_Foot_Pole_2
+    400556: Right_Hand
+    400558: Right_Hand_Goal
+    400560: Right_Hand_Pole
+    400562: Right_Knee
+    400564: Right_Leg
+    400566: Right_Leg_Piece
+    400568: Right_Null
+    400570: Right_Pupil
+    400572: Right_Pupil_Control
+    400574: Right_Shoulder
+    400576: Right_Shoulder_2
+    400578: Right_Top_Bend_Control
+    400580: Right_Wrist
+    400582: Ring
+    400584: Ring_2
+    400586: RTop
+    400588: Shoulder_Rotator
+    400590: Shoulders
+    400592: Shovels
+    400594: Shovels_2
+    400596: Spine1
+    400598: Spine10
+    400600: Spine2
+    400602: Spine3
+    400604: Spine4
+    400606: Spine5
+    400608: Spine7
+    400610: Spine8
+    400612: Spine9
+    400614: SpineMid
+    400616: Stone_Axe
+    400618: Stone_Axe_2
+    400620: Stone_Hoe
+    400622: Stone_Hoe_2
+    400624: Stone_Pickaxe
+    400626: Stone_Pickaxe_2
+    400628: Stone_Shovel
+    400630: Stone_Shovel_2
+    400632: Stone_Sword
+    400634: Stone_Sword_2
+    400636: Swords
+    400638: Swords_2
+    400640: Teeth_Bottom
+    400642: Teeth_Bottom_Boole
+    400644: Teeth_Bottom_Control
+    400646: Teeth_Bottom_Null
+    400648: Teeth_Bottom_Null_2
+    400650: Teeth_Top
+    400652: Teeth_Top_Control
+    400654: Teeth_Top_Null
+    400656: Thumb
+    400658: Thumb_2
+    400660: Tools___Left_Hand
+    400662: Tools___Right_Hand
+    400664: Top
+    400666: Top_Control
+    400668: Top_Null
+    400670: Upper_Left_Control
+    400672: Upper_Left_Null
+    400674: Upper_Right_Control
+    400676: Upper_Right_Null
+    400678: UpperLeft
+    400680: UpperRight
+    400682: Waist
+    400684: Waist_2
+    400686: Wood_Axe
+    400688: Wood_Axe_2
+    400690: Wood_Hoe
+    400692: Wood_Hoe_2
+    400694: Wood_Pickaxe
+    400696: Wood_Pickaxe_2
+    400698: Wood_Shovel
+    400700: Wood_Shovel_2
+    400702: Wood_Sword
+    400704: Wood_Sword_2
+    2300000: Back
+    2300002: bow_1
+    2300004: bow_1_2
+    2300006: bow_2
+    2300008: bow_2_2
+    2300010: bow_3
+    2300012: bow_3_2
+    2300014: bow_4
+    2300016: bow_4_2
+    2300018: Cape_2
+    2300020: Derecha_2
+    2300022: Derecha_3
+    2300024: Derecha_4
+    2300026: Derecha_5
+    2300028: Diamond_Axe
+    2300030: Diamond_Axe_2
+    2300032: Diamond_Hoe
+    2300034: Diamond_Hoe_2
+    2300036: Diamond_Pickaxe
+    2300038: Diamond_Pickaxe_2
+    2300040: Diamond_Shovel
+    2300042: Diamond_Shovel_2
+    2300044: Diamond_Sword
+    2300046: Diamond_Sword_2
+    2300048: Expression_Control
+    2300050: Gold_Axe
+    2300052: Gold_Axe_2
+    2300054: Gold_Hoe
+    2300056: Gold_Hoe_2
+    2300058: Gold_Pickaxe
+    2300060: Gold_Pickaxe_2
+    2300062: Gold_Shovel
+    2300064: Gold_Shovel_2
+    2300066: Gold_Sword
+    2300068: Gold_Sword_2
+    2300070: Hat_Layer
+    2300072: Hat_Layer_EXTRUDE
+    2300074: Head_EXTRUDE
+    2300076: Helmet
+    2300078: Iron_Axe
+    2300080: Iron_Axe_2
+    2300082: Iron_Hoe
+    2300084: Iron_Hoe_2
+    2300086: Iron_Pickaxe
+    2300088: Iron_Pickaxe_2
+    2300090: Iron_Shovel
+    2300092: Iron_Shovel_2
+    2300094: Iron_Sword
+    2300096: Iron_Sword_2
+    2300098: Izquiera_2
+    2300100: Izquiera_3
+    2300102: Izquiera_4
+    2300104: Izquiera_5
+    2300106: Left_Bend_Control
+    2300108: Left_Bottom_Bend_Control
+    2300110: Left_Elbow__FK_Control_
+    2300112: Left_Eyebrow_Control
+    2300114: Left_Eyelid_Control_B
+    2300116: Left_Eyelid_Control_T
+    2300118: Left_Foot_Goal
+    2300120: Left_Foot_Pole
+    2300122: Left_Hand_Goal
+    2300124: Left_Hand_Pole
+    2300126: Left_Pupil
+    2300128: Left_Pupil_Control
+    2300130: Left_Shoulder_2
+    2300132: Left_Top_Bend_Control
+    2300134: Left_Wrist
+    2300136: Lip_Sync_Control
+    2300138: Mouth_Expression_Plate
+    2300140: Mouth_Plate
+    2300142: Neck
+    2300144: Pupil_Control
+    2300146: Right_Bend_Control
+    2300148: Right_Bottom_Bend_Control
+    2300150: Right_Elbow__FK_Control_
+    2300152: Right_Eyebrow_Control
+    2300154: Right_Eyelid_Control_B
+    2300156: Right_Eyelid_Control_T
+    2300158: Right_Foot_Goal
+    2300160: Right_Foot_Pole
+    2300162: Right_Hand_Goal
+    2300164: Right_Hand_Pole
+    2300166: Right_Pupil
+    2300168: Right_Pupil_Control
+    2300170: Right_Shoulder_2
+    2300172: Right_Top_Bend_Control
+    2300174: Right_Wrist
+    2300176: Stone_Axe
+    2300178: Stone_Axe_2
+    2300180: Stone_Hoe
+    2300182: Stone_Hoe_2
+    2300184: Stone_Pickaxe
+    2300186: Stone_Pickaxe_2
+    2300188: Stone_Shovel
+    2300190: Stone_Shovel_2
+    2300192: Stone_Sword
+    2300194: Stone_Sword_2
+    2300196: Teeth_Bottom
+    2300198: Teeth_Bottom_Boole
+    2300200: Teeth_Bottom_Control
+    2300202: Teeth_Top
+    2300204: Teeth_Top_Control
+    2300206: Waist
+    2300208: Wood_Axe
+    2300210: Wood_Axe_2
+    2300212: Wood_Hoe
+    2300214: Wood_Hoe_2
+    2300216: Wood_Pickaxe
+    2300218: Wood_Pickaxe_2
+    2300220: Wood_Shovel
+    2300222: Wood_Shovel_2
+    2300224: Wood_Sword
+    2300226: Wood_Sword_2
+    3300000: Back
+    3300002: bow_1
+    3300004: bow_1_2
+    3300006: bow_2
+    3300008: bow_2_2
+    3300010: bow_3
+    3300012: bow_3_2
+    3300014: bow_4
+    3300016: bow_4_2
+    3300018: Cape_2
+    3300020: Derecha_2
+    3300022: Derecha_3
+    3300024: Derecha_4
+    3300026: Derecha_5
+    3300028: Diamond_Axe
+    3300030: Diamond_Axe_2
+    3300032: Diamond_Hoe
+    3300034: Diamond_Hoe_2
+    3300036: Diamond_Pickaxe
+    3300038: Diamond_Pickaxe_2
+    3300040: Diamond_Shovel
+    3300042: Diamond_Shovel_2
+    3300044: Diamond_Sword
+    3300046: Diamond_Sword_2
+    3300048: Expression_Control
+    3300050: Gold_Axe
+    3300052: Gold_Axe_2
+    3300054: Gold_Hoe
+    3300056: Gold_Hoe_2
+    3300058: Gold_Pickaxe
+    3300060: Gold_Pickaxe_2
+    3300062: Gold_Shovel
+    3300064: Gold_Shovel_2
+    3300066: Gold_Sword
+    3300068: Gold_Sword_2
+    3300070: Hat_Layer
+    3300072: Hat_Layer_EXTRUDE
+    3300074: Head_EXTRUDE
+    3300076: Helmet
+    3300078: Iron_Axe
+    3300080: Iron_Axe_2
+    3300082: Iron_Hoe
+    3300084: Iron_Hoe_2
+    3300086: Iron_Pickaxe
+    3300088: Iron_Pickaxe_2
+    3300090: Iron_Shovel
+    3300092: Iron_Shovel_2
+    3300094: Iron_Sword
+    3300096: Iron_Sword_2
+    3300098: Izquiera_2
+    3300100: Izquiera_3
+    3300102: Izquiera_4
+    3300104: Izquiera_5
+    3300106: Left_Bend_Control
+    3300108: Left_Bottom_Bend_Control
+    3300110: Left_Elbow__FK_Control_
+    3300112: Left_Eyebrow_Control
+    3300114: Left_Eyelid_Control_B
+    3300116: Left_Eyelid_Control_T
+    3300118: Left_Foot_Goal
+    3300120: Left_Foot_Pole
+    3300122: Left_Hand_Goal
+    3300124: Left_Hand_Pole
+    3300126: Left_Pupil
+    3300128: Left_Pupil_Control
+    3300130: Left_Shoulder_2
+    3300132: Left_Top_Bend_Control
+    3300134: Left_Wrist
+    3300136: Lip_Sync_Control
+    3300138: Mouth_Expression_Plate
+    3300140: Mouth_Plate
+    3300142: Neck
+    3300144: Pupil_Control
+    3300146: Right_Bend_Control
+    3300148: Right_Bottom_Bend_Control
+    3300150: Right_Elbow__FK_Control_
+    3300152: Right_Eyebrow_Control
+    3300154: Right_Eyelid_Control_B
+    3300156: Right_Eyelid_Control_T
+    3300158: Right_Foot_Goal
+    3300160: Right_Foot_Pole
+    3300162: Right_Hand_Goal
+    3300164: Right_Hand_Pole
+    3300166: Right_Pupil
+    3300168: Right_Pupil_Control
+    3300170: Right_Shoulder_2
+    3300172: Right_Top_Bend_Control
+    3300174: Right_Wrist
+    3300176: Stone_Axe
+    3300178: Stone_Axe_2
+    3300180: Stone_Hoe
+    3300182: Stone_Hoe_2
+    3300184: Stone_Pickaxe
+    3300186: Stone_Pickaxe_2
+    3300188: Stone_Shovel
+    3300190: Stone_Shovel_2
+    3300192: Stone_Sword
+    3300194: Stone_Sword_2
+    3300196: Teeth_Bottom
+    3300198: Teeth_Bottom_Boole
+    3300200: Teeth_Bottom_Control
+    3300202: Teeth_Top
+    3300204: Teeth_Top_Control
+    3300206: Waist
+    3300208: Wood_Axe
+    3300210: Wood_Axe_2
+    3300212: Wood_Hoe
+    3300214: Wood_Hoe_2
+    3300216: Wood_Pickaxe
+    3300218: Wood_Pickaxe_2
+    3300220: Wood_Shovel
+    3300222: Wood_Shovel_2
+    3300224: Wood_Sword
+    3300226: Wood_Sword_2
+    4300000: Right_Foot_Goal
+    4300002: Right_Foot_Pole
+    4300004: Left_Foot_Goal
+    4300006: Left_Foot_Pole
+    4300008: Waist
+    4300010: Back
+    4300012: Cape_2
+    4300014: Neck
+    4300016: Right_Shoulder_2
+    4300018: Right_Elbow__FK_Control_
+    4300020: Right_Hand_Goal
+    4300022: Right_Hand_Pole
+    4300024: Right_Wrist
+    4300026: bow_1
+    4300028: bow_2
+    4300030: bow_3
+    4300032: bow_4
+    4300034: Wood_Axe
+    4300036: Stone_Axe
+    4300038: Iron_Axe
+    4300040: Gold_Axe
+    4300042: Diamond_Axe
+    4300044: Wood_Hoe
+    4300046: Stone_Hoe
+    4300048: Iron_Hoe
+    4300050: Gold_Hoe
+    4300052: Diamond_Hoe
+    4300054: Wood_Pickaxe
+    4300056: Stone_Pickaxe
+    4300058: Iron_Pickaxe
+    4300060: Gold_Pickaxe
+    4300062: Diamond_Pickaxe
+    4300064: Wood_Shovel
+    4300066: Stone_Shovel
+    4300068: Iron_Shovel
+    4300070: Gold_Shovel
+    4300072: Diamond_Shovel
+    4300074: Wood_Sword
+    4300076: Stone_Sword
+    4300078: Iron_Sword
+    4300080: Gold_Sword
+    4300082: Diamond_Sword
+    4300084: Finger
+    4300086: Finger_2
+    4300088: Finger_3
+    4300090: Finger_4
+    4300092: Finger_5
+    4300094: Left_Shoulder_2
+    4300096: Left_Elbow__FK_Control_
+    4300098: Left_Hand_Goal
+    4300100: Left_Hand_Pole
+    4300102: Left_Wrist
+    4300104: bow_1_2
+    4300106: bow_2_2
+    4300108: bow_3_2
+    4300110: bow_4_2
+    4300112: Wood_Axe_2
+    4300114: Stone_Axe_2
+    4300116: Iron_Axe_2
+    4300118: Gold_Axe_2
+    4300120: Diamond_Axe_2
+    4300122: Wood_Hoe_2
+    4300124: Stone_Hoe_2
+    4300126: Iron_Hoe_2
+    4300128: Gold_Hoe_2
+    4300130: Diamond_Hoe_2
+    4300132: Wood_Pickaxe_2
+    4300134: Stone_Pickaxe_2
+    4300136: Iron_Pickaxe_2
+    4300138: Gold_Pickaxe_2
+    4300140: Diamond_Pickaxe_2
+    4300142: Wood_Shovel_2
+    4300144: Stone_Shovel_2
+    4300146: Iron_Shovel_2
+    4300148: Gold_Shovel_2
+    4300150: Diamond_Shovel_2
+    4300152: Wood_Sword_2
+    4300154: Stone_Sword_2
+    4300156: Iron_Sword_2
+    4300158: Gold_Sword_2
+    4300160: Diamond_Sword_2
+    4300162: Finger_6
+    4300164: Finger_7
+    4300166: Finger_8
+    4300168: Finger_9
+    4300170: Finger_10
+    4300172: Helmet
+    4300174: Chest_Piece
+    4300176: Leg_Piece
+    4300178: Right_Arm_Piece_2
+    4300180: Left_Arm_Piece_2
+    4300182: Right_Leg_Piece
+    4300184: Left_Leg_Piece
+    4300186: Right_Boot
+    4300188: Left_Boot
+    4300190: Body_2
+    4300192: Body_Layer2
+    4300194: ArmR_2
+    4300196: ArmR_Layer2
+    4300198: ArmL_2
+    4300200: ArmL_Layer2
+    4300202: LegR_2
+    4300204: LegR_Layer2
+    4300206: LegL_2
+    4300208: LegL_Layer2
+    4300210: Mouth_Expression_Plate
+    4300212: Expression_Control
+    4300214: Mouth_Plate
+    4300216: Lip_Sync_Control
+    4300218: Izquiera_2
+    4300220: Izquiera_3
+    4300222: Izquiera_4
+    4300224: Izquiera_5
+    4300226: Derecha_2
+    4300228: Derecha_3
+    4300230: Derecha_4
+    4300232: Derecha_5
+    4300234: Pupil_Control
+    4300236: Right_Pupil_Control
+    4300238: Right_Pupil
+    4300240: Left_Pupil_Control
+    4300242: Left_Pupil
+    4300244: Right_Eyelid_Control_T
+    4300246: Left_Eyelid_Control_T
+    4300248: Right_Eyelid_Control_B
+    4300250: Left_Eyelid_Control_B
+    4300252: Right_Top_Bend_Control
+    4300254: Left_Top_Bend_Control
+    4300256: Right_Bottom_Bend_Control
+    4300258: Left_Bottom_Bend_Control
+    4300260: Right_Eyebrow_Control
+    4300262: Right_Bend_Control
+    4300264: Right_Eyebrow__Mesh__2
+    4300266: Left_Eyebrow_Control
+    4300268: Left_Bend_Control
+    4300270: Left_Eyebrow__Mesh__2
+    4300272: Teeth_Top_Control
+    4300274: Teeth_Top
+    4300276: Teeth_Bottom_Control
+    4300278: Teeth_Bottom
+    4300280: Teeth_Bottom_Boole
+    4300282: Head_3
+    4300284: Mouth_3
+    4300286: Hat_Layer_EXTRUDE
+    4300288: Head_EXTRUDE
+    4300290: Hat_Layer
+    7400000: Idle
+    9500000: //RootNode
+    13700000: ArmL_2
+    13700002: ArmL_Layer2
+    13700004: ArmR_2
+    13700006: ArmR_Layer2
+    13700008: Body_2
+    13700010: Body_Layer2
+    13700012: Chest_Piece
+    13700014: Finger
+    13700016: Finger_10
+    13700018: Finger_2
+    13700020: Finger_3
+    13700022: Finger_4
+    13700024: Finger_5
+    13700026: Finger_6
+    13700028: Finger_7
+    13700030: Finger_8
+    13700032: Finger_9
+    13700034: Head_3
+    13700036: Left_Arm_Piece_2
+    13700038: Left_Boot
+    13700040: Left_Eyebrow__Mesh__2
+    13700042: Left_Leg_Piece
+    13700044: Leg_Piece
+    13700046: LegL_2
+    13700048: LegL_Layer2
+    13700050: LegR_2
+    13700052: LegR_Layer2
+    13700054: Mouth_3
+    13700056: Right_Arm_Piece_2
+    13700058: Right_Boot
+    13700060: Right_Eyebrow__Mesh__2
+    13700062: Right_Leg_Piece
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Attachments__Head_
+        weight: 1
+      - path: Attachments__Left_Hand_
+        weight: 1
+      - path: Attachments__Right_Hand_
+        weight: 1
+      - path: Body_Mesh
+        weight: 1
+      - path: Body_Mesh/ArmL
+        weight: 1
+      - path: Body_Mesh/ArmL/ArmL_2
+        weight: 1
+      - path: Body_Mesh/ArmL/ArmL_Layer2
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Chest_Piece
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Helmet
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Left_Arm_Piece
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Left_Arm_Piece/Left_Arm_Piece_2
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Left_Boot
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Left_Leg_Piece
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Leg_Piece
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Right_Arm_Piece
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Right_Arm_Piece/Right_Arm_Piece_2
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Right_Boot
+        weight: 1
+      - path: Body_Mesh/Armor_Mesh/Right_Leg_Piece
+        weight: 1
+      - path: Body_Mesh/ArmR
+        weight: 1
+      - path: Body_Mesh/ArmR/ArmR_2
+        weight: 1
+      - path: Body_Mesh/ArmR/ArmR_Layer2
+        weight: 1
+      - path: Body_Mesh/Body
+        weight: 1
+      - path: Body_Mesh/Body/Body_2
+        weight: 1
+      - path: Body_Mesh/Body/Body_Layer2
+        weight: 1
+      - path: Body_Mesh/LegL
+        weight: 1
+      - path: Body_Mesh/LegL/LegL_2
+        weight: 1
+      - path: Body_Mesh/LegL/LegL_Layer2
+        weight: 1
+      - path: Body_Mesh/LegR
+        weight: 1
+      - path: Body_Mesh/LegR/LegR_2
+        weight: 1
+      - path: Body_Mesh/LegR/LegR_Layer2
+        weight: 1
+      - path: Controls
+        weight: 1
+      - path: Controls/Left_Foot_Goal
+        weight: 1
+      - path: Controls/Left_Foot_Goal/Left_Fancy_Goal
+        weight: 1
+      - path: Controls/Left_Foot_Goal/Left_Fancy_Goal/Left_Foot_Pole_2
+        weight: 1
+      - path: Controls/Left_Foot_Goal/Left_Foot_Pole
+        weight: 1
+      - path: Controls/Right_Foot_Goal
+        weight: 1
+      - path: Controls/Right_Foot_Goal/Right_Fancy_Goal
+        weight: 1
+      - path: Controls/Right_Foot_Goal/Right_Fancy_Goal/Right_Foot_Pole_2
+        weight: 1
+      - path: Controls/Right_Foot_Goal/Right_Foot_Pole
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Eyebrows
+        weight: 1
+      - path: Head/Eyebrows/Left_Eyebrow_Parent
+        weight: 1
+      - path: Head/Eyebrows/Left_Eyebrow_Parent/Left_Eyebrow_Control
+        weight: 1
+      - path: Head/Eyebrows/Left_Eyebrow_Parent/Left_Eyebrow_Control/left_2
+        weight: 1
+      - path: Head/Eyebrows/Left_Eyebrow_Parent/Left_Eyebrow_Control/Left_Bend_Control
+        weight: 1
+      - path: Head/Eyebrows/Left_Eyebrow_Parent/Left_Eyebrow_Control/Left_Bend_Control/mid_2
+        weight: 1
+      - path: Head/Eyebrows/Left_Eyebrow_Parent/Left_Eyebrow_Control/Left_Eyebrow__Mesh_
+        weight: 1
+      - path: Head/Eyebrows/Left_Eyebrow_Parent/Left_Eyebrow_Control/Left_Eyebrow__Mesh_/Left_Eyebrow__Mesh__2
+        weight: 1
+      - path: Head/Eyebrows/Left_Eyebrow_Parent/Left_Eyebrow_Control/right_2
+        weight: 1
+      - path: Head/Eyebrows/Right_Eyebrow_Parent
+        weight: 1
+      - path: Head/Eyebrows/Right_Eyebrow_Parent/Right_Eyebrow_Control
+        weight: 1
+      - path: Head/Eyebrows/Right_Eyebrow_Parent/Right_Eyebrow_Control/left
+        weight: 1
+      - path: Head/Eyebrows/Right_Eyebrow_Parent/Right_Eyebrow_Control/right
+        weight: 1
+      - path: Head/Eyebrows/Right_Eyebrow_Parent/Right_Eyebrow_Control/Right_Bend_Control
+        weight: 1
+      - path: Head/Eyebrows/Right_Eyebrow_Parent/Right_Eyebrow_Control/Right_Bend_Control/mid
+        weight: 1
+      - path: Head/Eyebrows/Right_Eyebrow_Parent/Right_Eyebrow_Control/Right_Eyebrow__Mesh_
+        weight: 1
+      - path: Head/Eyebrows/Right_Eyebrow_Parent/Right_Eyebrow_Control/Right_Eyebrow__Mesh_/Right_Eyebrow__Mesh__2
+        weight: 1
+      - path: Head/Eyes
+        weight: 1
+      - path: Head/Eyes/Derecha
+        weight: 1
+      - path: Head/Eyes/Derecha/Derecha_2
+        weight: 1
+      - path: Head/Eyes/Derecha/Derecha_3
+        weight: 1
+      - path: Head/Eyes/Derecha/Derecha_4
+        weight: 1
+      - path: Head/Eyes/Derecha/Derecha_5
+        weight: 1
+      - path: Head/Eyes/Izquiera
+        weight: 1
+      - path: Head/Eyes/Izquiera/Izquiera_2
+        weight: 1
+      - path: Head/Eyes/Izquiera/Izquiera_3
+        weight: 1
+      - path: Head/Eyes/Izquiera/Izquiera_4
+        weight: 1
+      - path: Head/Eyes/Izquiera/Izquiera_5
+        weight: 1
+      - path: Head/Eyes/Left_Bottom_Bend_Control
+        weight: 1
+      - path: Head/Eyes/Left_Eye
+        weight: 1
+      - path: Head/Eyes/Left_Eye/LBottom
+        weight: 1
+      - path: Head/Eyes/Left_Eye/LBottom/L_Bottom_2
+        weight: 1
+      - path: Head/Eyes/Left_Eye/LBottom/M_Bottom_2
+        weight: 1
+      - path: Head/Eyes/Left_Eye/LBottom/R_Bottom_2
+        weight: 1
+      - path: Head/Eyes/Left_Eye/LTop
+        weight: 1
+      - path: Head/Eyes/Left_Eye/LTop/L_Top_2
+        weight: 1
+      - path: Head/Eyes/Left_Eye/LTop/M_Top_2
+        weight: 1
+      - path: Head/Eyes/Left_Eye/LTop/R_Top_2
+        weight: 1
+      - path: Head/Eyes/Left_Eyelid_Control_B
+        weight: 1
+      - path: Head/Eyes/Left_Eyelid_Control_T
+        weight: 1
+      - path: Head/Eyes/Left_Top_Bend_Control
+        weight: 1
+      - path: Head/Eyes/Pupil_Control
+        weight: 1
+      - path: Head/Eyes/Pupil_Control/Left_Pupil_Control
+        weight: 1
+      - path: Head/Eyes/Pupil_Control/Left_Pupil_Control/Left_Pupil
+        weight: 1
+      - path: Head/Eyes/Pupil_Control/Right_Pupil_Control
+        weight: 1
+      - path: Head/Eyes/Pupil_Control/Right_Pupil_Control/Right_Pupil
+        weight: 1
+      - path: Head/Eyes/Right_Bottom_Bend_Control
+        weight: 1
+      - path: Head/Eyes/Right_Eye
+        weight: 1
+      - path: Head/Eyes/Right_Eye/RBottom
+        weight: 1
+      - path: Head/Eyes/Right_Eye/RBottom/L_Bottom
+        weight: 1
+      - path: Head/Eyes/Right_Eye/RBottom/M_Bottom
+        weight: 1
+      - path: Head/Eyes/Right_Eye/RBottom/R_Bottom
+        weight: 1
+      - path: Head/Eyes/Right_Eye/RTop
+        weight: 1
+      - path: Head/Eyes/Right_Eye/RTop/L_Top
+        weight: 1
+      - path: Head/Eyes/Right_Eye/RTop/M_Top
+        weight: 1
+      - path: Head/Eyes/Right_Eye/RTop/R_Top
+        weight: 1
+      - path: Head/Eyes/Right_Eyelid_Control_B
+        weight: 1
+      - path: Head/Eyes/Right_Eyelid_Control_T
+        weight: 1
+      - path: Head/Eyes/Right_Top_Bend_Control
+        weight: 1
+      - path: Head/Hat_Layer
+        weight: 1
+      - path: Head/Hat_Layer_EXTRUDE
+        weight: 1
+      - path: Head/Head___Booles
+        weight: 1
+      - path: Head/Head___Booles/Head_2
+        weight: 1
+      - path: Head/Head___Booles/Head_2/Head_3
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles/Mouth_Boole
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles/Mouth_Boole/Mouth_Boole_2
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles/Mouth_Boole/Mouth_Boole_2/Mouth_2
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles/Mouth_Boole/Mouth_Boole_2/Mouth_2/Mouth_3
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2/Eye_Boole
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2/Eye_Boole/Left_Eye_Boole
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2/Eye_Boole/Left_Eye_Boole/Left_Eye_Disable
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2/Eye_Boole/Right_Eye_Boole
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2/Eye_Boole/Right_Eye_Boole/Right_Eye_Disable
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2/Mouth_Boole_3
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2/Mouth_Boole_3/Mouth_Boole_4
+        weight: 1
+      - path: Head/Head___Booles/Mouth___Eye_Booles_2/Mouth_Boole_3/Mouth_Boole_4/Mouth_Disable
+        weight: 1
+      - path: Head/Head_EXTRUDE
+        weight: 1
+      - path: Head/Mouth
+        weight: 1
+      - path: Head/Mouth/Bottom_Null
+        weight: 1
+      - path: Head/Mouth/Bottom_Null/Boole
+        weight: 1
+      - path: Head/Mouth/Bottom_Null/Boole/Teeth_Bottom_Boole
+        weight: 1
+      - path: Head/Mouth/Bottom_Null/Boole/Teeth_Bottom_Null
+        weight: 1
+      - path: Head/Mouth/Bottom_Null/Boole/Teeth_Bottom_Null/Teeth_Bottom
+        weight: 1
+      - path: Head/Mouth/Bottom_Null/Boole/Teeth_Bottom_Null_2
+        weight: 1
+      - path: Head/Mouth/Bottom_Null/Bottom_Control
+        weight: 1
+      - path: Head/Mouth/Bottom_Null/Bottom_Control/Bottom
+        weight: 1
+      - path: Head/Mouth/Bottom_Null/Teeth_Bottom_Control
+        weight: 1
+      - path: Head/Mouth/Left_Null
+        weight: 1
+      - path: Head/Mouth/Left_Null/Left_Expression
+        weight: 1
+      - path: Head/Mouth/Left_Null/Left_Expression/Left_Control
+        weight: 1
+      - path: Head/Mouth/Left_Null/Left_Expression/Left_Control/Left
+        weight: 1
+      - path: Head/Mouth/Lower_Left_Null
+        weight: 1
+      - path: Head/Mouth/Lower_Left_Null/Lower_Left_Control
+        weight: 1
+      - path: Head/Mouth/Lower_Left_Null/Lower_Left_Control/LowerLeft
+        weight: 1
+      - path: Head/Mouth/Lower_Right_Null
+        weight: 1
+      - path: Head/Mouth/Lower_Right_Null/Lower_Right_Control
+        weight: 1
+      - path: Head/Mouth/Lower_Right_Null/Lower_Right_Control/LowerRight
+        weight: 1
+      - path: Head/Mouth/Right_Null
+        weight: 1
+      - path: Head/Mouth/Right_Null/Right_Expression
+        weight: 1
+      - path: Head/Mouth/Right_Null/Right_Expression/Right_Control
+        weight: 1
+      - path: Head/Mouth/Right_Null/Right_Expression/Right_Control/Right
+        weight: 1
+      - path: Head/Mouth/Top_Null
+        weight: 1
+      - path: Head/Mouth/Top_Null/Teeth_Top_Control
+        weight: 1
+      - path: Head/Mouth/Top_Null/Teeth_Top_Null
+        weight: 1
+      - path: Head/Mouth/Top_Null/Teeth_Top_Null/Teeth_Top
+        weight: 1
+      - path: Head/Mouth/Top_Null/Top_Control
+        weight: 1
+      - path: Head/Mouth/Top_Null/Top_Control/Top
+        weight: 1
+      - path: Head/Mouth/Upper_Left_Null
+        weight: 1
+      - path: Head/Mouth/Upper_Left_Null/Upper_Left_Control
+        weight: 1
+      - path: Head/Mouth/Upper_Left_Null/Upper_Left_Control/UpperLeft
+        weight: 1
+      - path: Head/Mouth/Upper_Right_Null
+        weight: 1
+      - path: Head/Mouth/Upper_Right_Null/Upper_Right_Control
+        weight: 1
+      - path: Head/Mouth/Upper_Right_Null/Upper_Right_Control/UpperRight
+        weight: 1
+      - path: Head/Mouth_Expression_Plate
+        weight: 1
+      - path: Head/Mouth_Expression_Plate/Expression_Control
+        weight: 1
+      - path: Head/Mouth_Plate
+        weight: 1
+      - path: Head/Mouth_Plate/Lip_Sync_Control
+        weight: 1
+      - path: Joints___Arm_Controls
+        weight: 1
+      - path: Joints___Arm_Controls/Waist
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Left_Leg
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Left_Leg/Left_Knee
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Left_Leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Left_Leg/Left_Knee/Left_Foot/Left_Fancy
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Right_Leg
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Right_Leg/Right_Knee
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Right_Leg/Right_Knee/Right_Foot
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Right_Leg/Right_Knee/Right_Foot/Right_Fancy
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Back
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Cape
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Cape/Cape_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Middle_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Middle_2/Finger_7
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Middle_2/Joints_7
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Middle_2/Joints_7/Joint_7
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Middle_2/Joints_7/Joint_7/Joint_1_7
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Middle_2/Joints_7/Joint_7/Joint_1_7/Joint_2_8
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Middle_2/Joints_7/Joint_7/Joint_1_7/Joint_2_8/Joint_3_8
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pinky_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pinky_2/Finger_9
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pinky_2/Joints_9
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pinky_2/Joints_9/Joint_9
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pinky_2/Joints_9/Joint_9/Joint_1_9
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pinky_2/Joints_9/Joint_9/Joint_1_9/Joint_2_10
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pinky_2/Joints_9/Joint_9/Joint_1_9/Joint_2_10/Joint_3_10
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pointer_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pointer_2/Finger_6
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pointer_2/Joints_6
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pointer_2/Joints_6/Joint_6
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pointer_2/Joints_6/Joint_6/Joint_1_6
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pointer_2/Joints_6/Joint_6/Joint_1_6/Joint_2_7
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Pointer_2/Joints_6/Joint_6/Joint_1_6/Joint_2_7/Joint_3_7
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Ring_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Ring_2/Finger_8
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Ring_2/Joints_8
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Ring_2/Joints_8/Joint_8
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Ring_2/Joints_8/Joint_8/Joint_1_8
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Ring_2/Joints_8/Joint_8/Joint_1_8/Joint_2_9
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Ring_2/Joints_8/Joint_8/Joint_1_8/Joint_2_9/Joint_3_9
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Thumb_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Thumb_2/Finger_10
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Thumb_2/Joints_10
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Thumb_2/Joints_10/Joint_10
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Thumb_2/Joints_10/Joint_10/Joint_1_10
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Thumb_2/Joints_10/Joint_10/Joint_1_10/Joint_2_11
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Left_Fingers/Thumb_2/Joints_10/Joint_10/Joint_1_10/Joint_2_11/Joint_3_11
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Axes_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Axes_2/Diamond_Axe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Axes_2/Gold_Axe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Axes_2/Iron_Axe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Axes_2/Stone_Axe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Axes_2/Wood_Axe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Bow_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Bow_2/bow_1_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Bow_2/bow_2_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Bow_2/bow_3_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Bow_2/bow_4_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Hoes_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Hoes_2/Diamond_Hoe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Hoes_2/Gold_Hoe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Hoes_2/Iron_Hoe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Hoes_2/Stone_Hoe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Hoes_2/Wood_Hoe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Pickaxes_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Pickaxes_2/Diamond_Pickaxe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Pickaxes_2/Gold_Pickaxe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Pickaxes_2/Iron_Pickaxe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Pickaxes_2/Stone_Pickaxe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Pickaxes_2/Wood_Pickaxe_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Shovels_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Shovels_2/Diamond_Shovel_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Shovels_2/Gold_Shovel_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Shovels_2/Iron_Shovel_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Shovels_2/Stone_Shovel_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Shovels_2/Wood_Shovel_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Swords_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Swords_2/Diamond_Sword_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Swords_2/Gold_Sword_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Swords_2/Iron_Sword_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Swords_2/Stone_Sword_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Hand/Tools___Left_Hand/Swords_2/Wood_Sword_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Arm/Left_Elbow/Left_Wrist
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Elbow__FK_Control_
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Hand_Goal
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Left_Shoulder/Left_Shoulder_2/Left_Hand_Goal/Left_Hand_Pole
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Neck
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Neck/Neck_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Neck/Neck_2/Head__End_Joint_
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Neck/Neck_2/Head__End_Joint_/RIG_CREATED_BY_XIFROST21__2014_
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Middle
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Middle/Finger_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Middle/Joints_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Middle/Joints_2/Joint_2_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Middle/Joints_2/Joint_2_2/Joint_1_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Middle/Joints_2/Joint_2_2/Joint_1_2/Joint_2_3
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Middle/Joints_2/Joint_2_2/Joint_1_2/Joint_2_3/Joint_3_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pinky
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pinky/Finger_4
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pinky/Joints_4
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pinky/Joints_4/Joint_4
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pinky/Joints_4/Joint_4/Joint_1_4
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pinky/Joints_4/Joint_4/Joint_1_4/Joint_2_5
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pinky/Joints_4/Joint_4/Joint_1_4/Joint_2_5/Joint_3_5
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pointer
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pointer/Finger
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pointer/Joints
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pointer/Joints/Joint
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pointer/Joints/Joint/Joint_1
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pointer/Joints/Joint/Joint_1/Joint_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Pointer/Joints/Joint/Joint_1/Joint_2/Joint_3
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Ring
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Ring/Finger_3
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Ring/Joints_3
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Ring/Joints_3/Joint_3_3
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Ring/Joints_3/Joint_3_3/Joint_1_3
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Ring/Joints_3/Joint_3_3/Joint_1_3/Joint_2_4
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Ring/Joints_3/Joint_3_3/Joint_1_3/Joint_2_4/Joint_3_4
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Thumb
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Thumb/Finger_5
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Thumb/Joints_5
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Thumb/Joints_5/Joint_5
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Thumb/Joints_5/Joint_5/Joint_1_5
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Thumb/Joints_5/Joint_5/Joint_1_5/Joint_2_6
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Right_Fingers/Thumb/Joints_5/Joint_5/Joint_1_5/Joint_2_6/Joint_3_6
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Axes
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Axes/Diamond_Axe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Axes/Gold_Axe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Axes/Iron_Axe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Axes/Stone_Axe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Axes/Wood_Axe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Bow
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Bow/bow_1
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Bow/bow_2
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Bow/bow_3
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Bow/bow_4
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Hoes
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Hoes/Diamond_Hoe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Hoes/Gold_Hoe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Hoes/Iron_Hoe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Hoes/Stone_Hoe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Hoes/Wood_Hoe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Pickaxes
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Pickaxes/Diamond_Pickaxe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Pickaxes/Gold_Pickaxe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Pickaxes/Iron_Pickaxe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Pickaxes/Stone_Pickaxe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Pickaxes/Wood_Pickaxe
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Shovels
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Shovels/Diamond_Shovel
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Shovels/Gold_Shovel
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Shovels/Iron_Shovel
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Shovels/Stone_Shovel
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Shovels/Wood_Shovel
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Swords
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Swords/Diamond_Sword
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Swords/Gold_Sword
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Swords/Iron_Sword
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Swords/Stone_Sword
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Hand/Tools___Right_Hand/Swords/Wood_Sword
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Arm/Right_Elbow/Right_Wrist
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Elbow__FK_Control_
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Hand_Goal
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Right_Shoulder/Right_Shoulder_2/Right_Hand_Goal/Right_Hand_Pole
+        weight: 1
+      - path: Joints___Arm_Controls/Waist/Waist_2/Spine1/Spine2/Spine3/Spine4/Spine5/SpineMid/Spine7/Spine8/Spine9/Spine10/Shoulders/Shoulder_Rotator
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

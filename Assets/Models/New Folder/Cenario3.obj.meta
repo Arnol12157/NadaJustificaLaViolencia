@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: a64d22afad4a6934d90dbc4964277835
+timeCreated: 1457392340
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bedrock
+    100002: Carrot
+    100004: //RootNode
+    100006: Cobblestone
+    100008: Cobblestone_Stairs
+    100010: Dandelion
+    100012: Dirt
+    100014: Farmland
+    100016: Fence
+    100018: Fence_Gate
+    100020: Glass
+    100022: Grass
+    100024: Grass_Block
+    100026: Large_Flowers
+    100028: Leaves
+    100030: Monster_Egg
+    100032: Poppy
+    100034: Potato
+    100036: Pumpkin
+    100038: Stationary_Water
+    100040: Sugar_Cane
+    100042: Wheat
+    100044: Wood
+    100046: Wood_Planks
+    100048: Wooden_Door
+    400000: Bedrock
+    400002: Carrot
+    400004: //RootNode
+    400006: Cobblestone
+    400008: Cobblestone_Stairs
+    400010: Dandelion
+    400012: Dirt
+    400014: Farmland
+    400016: Fence
+    400018: Fence_Gate
+    400020: Glass
+    400022: Grass
+    400024: Grass_Block
+    400026: Large_Flowers
+    400028: Leaves
+    400030: Monster_Egg
+    400032: Poppy
+    400034: Potato
+    400036: Pumpkin
+    400038: Stationary_Water
+    400040: Sugar_Cane
+    400042: Wheat
+    400044: Wood
+    400046: Wood_Planks
+    400048: Wooden_Door
+    2300000: Bedrock
+    2300002: Carrot
+    2300004: Cobblestone
+    2300006: Cobblestone_Stairs
+    2300008: Dandelion
+    2300010: Dirt
+    2300012: Farmland
+    2300014: Fence
+    2300016: Fence_Gate
+    2300018: Glass
+    2300020: Grass
+    2300022: Grass_Block
+    2300024: Large_Flowers
+    2300026: Leaves
+    2300028: Monster_Egg
+    2300030: Poppy
+    2300032: Potato
+    2300034: Pumpkin
+    2300036: Stationary_Water
+    2300038: Sugar_Cane
+    2300040: Wheat
+    2300042: Wood
+    2300044: Wood_Planks
+    2300046: Wooden_Door
+    3300000: Bedrock
+    3300002: Carrot
+    3300004: Cobblestone
+    3300006: Cobblestone_Stairs
+    3300008: Dandelion
+    3300010: Dirt
+    3300012: Farmland
+    3300014: Fence
+    3300016: Fence_Gate
+    3300018: Glass
+    3300020: Grass
+    3300022: Grass_Block
+    3300024: Large_Flowers
+    3300026: Leaves
+    3300028: Monster_Egg
+    3300030: Poppy
+    3300032: Potato
+    3300034: Pumpkin
+    3300036: Stationary_Water
+    3300038: Sugar_Cane
+    3300040: Wheat
+    3300042: Wood
+    3300044: Wood_Planks
+    3300046: Wooden_Door
+    4300000: Bedrock
+    4300002: Carrot
+    4300004: Cobblestone
+    4300006: Cobblestone_Stairs
+    4300008: Dandelion
+    4300010: Dirt
+    4300012: Farmland
+    4300014: Fence
+    4300016: Fence_Gate
+    4300018: Glass
+    4300020: Grass
+    4300022: Grass_Block
+    4300024: Large_Flowers
+    4300026: Leaves
+    4300028: Monster_Egg
+    4300030: Poppy
+    4300032: Potato
+    4300034: Pumpkin
+    4300036: Stationary_Water
+    4300038: Sugar_Cane
+    4300040: Wheat
+    4300042: Wood
+    4300044: Wood_Planks
+    4300046: Wooden_Door
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
